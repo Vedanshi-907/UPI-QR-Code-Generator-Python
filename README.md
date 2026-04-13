@@ -33,7 +33,7 @@ pip install qrcode pillow
 ## ▶️ How to Run
 
 ### Step 1: Clone the repository
-git clone https://github.com/your-username/UPI-QR-Code-Generator-Python.git
+git clone <https://github.com/Vedanshi-907/UPI-QR-Code-Generator-Python>
 
 ### Step 2: Navigate to project folder
 cd UPI-QR-Code-Generator-Python
